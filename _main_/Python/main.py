@@ -1,1 +1,1 @@
-print("hello world new era")
+print("hello world from main.py")
